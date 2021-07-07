@@ -1,0 +1,7 @@
+18:01:39,779 DEBUG devpinoyLogger:51 - Comfiguration file is loaded 
+18:01:39,784 DEBUG devpinoyLogger:55 - Object Repository file is loaded 
+18:01:42,881 DEBUG devpinoyLogger:61 - Chome browser is opening 
+18:02:02,499 DEBUG devpinoyLogger:64 - opening the Site :http://www.way2automation.com/angularjs-protractor/banking/#/login
+18:02:02,733 DEBUG devpinoyLogger:16 - Login Bank Manager accoint
+18:02:02,841 DEBUG devpinoyLogger:18 - Login Bank Manager accoint successful
+18:02:02,842 DEBUG devpinoyLogger:20 - button present
